@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://brandynguyen2020.github.io/BrandyVanNguyen-personalwebsite/sitemap.xml
+Sitemap: https://brandynguyen2020.github.io/personal-website/sitemap.xml
