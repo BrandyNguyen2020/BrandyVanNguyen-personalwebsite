@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ecology and Evolutionary Biology Undergraduate at UC Irvine
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_8653.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>A red abalone from my time</p>
+    <p> at NOAA's Southwest Fisheries Science Center</p>
+    <p>in La Jolla, California!</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
