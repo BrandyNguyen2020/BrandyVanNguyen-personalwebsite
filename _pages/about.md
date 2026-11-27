@@ -24,6 +24,13 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; margin-top: -1.5rem; margin-bottom: 2.5rem; overflow: hidden;">
+  <img
+    src="{{ '/assets/img/lake_background.JPG' | relative_url }}"
+    alt="Coastal banner"
+    style="width: 100%; height: 340px; object-fit: cover; object-position: center; display: block;"
+  />
+</div>
 
 Welcome to my personal website! <br>
 Here you'll find all the details about my research. From mountain lakes to kelp forests, I'm interested in the conservation and restoration of any and all aquatic ecosystems. 
