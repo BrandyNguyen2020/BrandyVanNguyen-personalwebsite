@@ -1,7 +1,10 @@
+---
+---
+
 body {
   background-image:
     linear-gradient(rgba(10, 14, 18, 0.72), rgba(10, 14, 18, 0.72)),
-    url("/personal-website/assets/img/lake_background.JPG");
+    url("/personal-website/assets/img/lake_background.JPG") !important;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;

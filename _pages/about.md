@@ -25,7 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my personal website! Here you'll find all the details about my research. From mountain lakes to kelp forests, I'm interested in the conservation and restoration of any and all aquatic ecosystems. 
+Welcome to my personal website! 
+Here you'll find all the details about my research. From mountain lakes to kelp forests, I'm interested in the conservation and restoration of any and all aquatic ecosystems. 
 
 Currently, I am an undergraduate researcher at UC Irvine, where I've been working in the [Symons Lab](https://www.symonslab.com/) since Day 1! My primary research has been tackling functional recovery in mountain lakes, a similar idea I'm hoping to transfer onwards into my PhD studies.
 

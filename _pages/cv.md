@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 ---
-<h2 class="text-center mb-4">CV (updated November 2026)</h2>
+<h2 class="text-center mb-4">(last updated November 2026)</h2>
 
 <div class="d-flex align-items-center mb-3">
   <a href="{{ '/assets/pdf/CV_BrandyVanNguyen_Nov2026.pdf' | relative_url }}" download class="mr-3" title="Download CV PDF" style="color: #d9534f;">
@@ -27,8 +27,4 @@ nav_order: 5
     <p>Your browser does not support embedded PDFs. <a href="{{ '/assets/pdf/CV_BrandyVanNguyen_Nov2026.pdf' | relative_url }}">Download the PDF here</a>.</p>
   </iframe>
 </div>
-# cv_format: rendercv # options: rendercv, jsonresume
-# description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-# toc:
- # sidebar: left
 ---
