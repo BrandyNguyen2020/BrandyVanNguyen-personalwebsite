@@ -1,81 +1,60 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Lake Recovery in the Eastern Sierra Nevada
+description: My undergraduate research with the [Symons Lab](https://www.symonslab.com/) at UC Irvine
+img: assets/img/lake_background.JPG
 importance: 1
-category: work
+category: Current Research Projects
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The Symons Lab was where I got my very first taste of research! 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+To set the stage for this work, here's some background: <b>
+Our fieldwork takes place in mountain lakes of the Eastern Sierra Nevada. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Lakes of the region have been stocked with non-native fish starting in the late 1800s. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+These non-native have led to many complex ecological changes for the region. 
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Overtime, a mosaic of varying fish histories have risen, leading to a perfect chance to study lake recovery. 
+
+This area is where my project comes in; **I study the dynamics of functional and taxanomic recovery of zooplankton post disturbance, in this case, following fish-removal**.
+
+
+We utilized a set of three lakes (all with varying fish histories) to elucidate the dynamics of functional and taxanomic recovery post distrubance. The idea is that functional traits of a community may recover faster than the targetted return of certain taxa. A publication is soon to come out of this work I swear! 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Yosemite_snowman.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/zoopsize.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Using microscopy, I would identify each zooplankton tow net sample for the species that made up that community and take images of the zooplankton to measure individual traits like body size. It's kind of amazing how much information you can get out of a single tow sample! Using this information I could then find out whehter functional or taxanomic recovery had occured at all. 
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/SNARL.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Showing_lake.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Zoops.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
-
-{% endraw %}
+<div class="caption">
+    (From left to right) On a more personal note, being in the Symons lab has led into some pretty life-changing opportunites. In the summer of 2025 I had the chance to work for the Symons Lab as a field assistant based out of the Sierra Nevada Aquatic Research Laboratory (SNARL), one of the field stations apart of the UC Natural Reserve System. This was my first time doing summer field work, and I can say without a doubt that it was one of the _best_ jobs I have ever had in my life. The job included many, many hikes, hauling pounds of scientific gear to lake sites. At each sampling site we would take a suite of parameters like biological samples, lake profiles, and nutrients. For my research I was particularly interested in examining the zooplankton tow net samples.
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Another_lake_sampling.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Some added perspective on how big some of these mountain lakes are!
+</div>

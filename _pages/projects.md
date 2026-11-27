@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: All the major research I have been apart of chronicled here! Each project is sorted by the overarching group I worked with. 
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Current Research Projects, Fieldwork Photos]
 horizontal: false
 ---
 
