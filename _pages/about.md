@@ -28,9 +28,9 @@ latest_posts:
 Welcome to my personal website! <br>
 Here you'll find more details on my research and myself. From mountain lakes to kelp forests, I am interested in the conservation and restoration of any and all aquatic ecosystems. Having lived in California all my life, I am hoping to transform my passion for science into a long-term career as a federal research scientist based in the state. 
 
-Currently, I am an undergraduate researcher at UC Irvine, where I've been working in the [Symons Lab](https://www.symonslab.com/) since Day 1! My primary research has been tackling functional recovery in mountain lakes, a similar idea I'm hoping to transfer onwards into my PhD studies. Outside of school, I also work as a Lab Assistant at the Southern California Coastal Waters Research Project [SCCWRP](https://www.sccwrp.org/). There, I am in the Biogeochemistry department, focusing on ocean acidification and harmful algal blooms (HABs). You can find more details about my work in the Projects tab!
+Currently, I am an undergraduate researcher at UC Irvine, where I've been working in the [Symons Lab](https://www.symonslab.com/) since Day 1 of starting college! My primary research has been tackling functional recovery in mountain lakes, a similar idea I'm hoping to transfer onwards into my PhD studies. Outside of school, I also work as a Lab Assistant at the Southern California Coastal Waters Research Project [SCCWRP](https://www.sccwrp.org/). There, I am in the Biogeochemistry Department, focusing on ocean acidification and harmful algal blooms (HABs). You can find more details about my work in the Projects tab!
 
-Here's my contact if you'd like to talk further! [brandyn2@uci.edu](mailto:brandyn2@uci.edu)!
+Here's my contact if you'd like to talk further! [brandyn2@uci.edu](mailto:brandyn2@uci.edu)
 
 <div class="row mt-4">
   <div class="col-sm-4 mt-3 mt-md-0">
