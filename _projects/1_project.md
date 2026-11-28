@@ -26,12 +26,13 @@ We utilized a set of three lakes (all with varying fish histories) to elucidate 
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-6 mt-3 mt-md-0">
-    <img src="{{ '/assets/img/Zoops.jpg' | relative_url }}" alt="Zooplankton tow sample" class="img-fluid rounded z-depth-1" style="width: 100%; height: 320px; object-fit: cover;">
+    <img src="{{ '/assets/img/Zoops.jpg' | relative_url }}" alt="Zooplankton tow sample" class="img-fluid rounded z-depth-1" style="width: 100%; height: 360px; object-fit: cover;">
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
     <img src="{{ '/assets/img/daphnia_party.jpg' | relative_url }}" alt="Microscopy image of zooplankton" class="img-fluid rounded z-depth-1" style="width: 100%; height: 320px; object-fit: cover;">
   </div>
 </div>
+
 
 Using microscopy, I would identify each zooplankton tow net sample for the species that made up that community and take images of the zooplankton to measure individual traits like body size. It's kind of amazing how much information you can get out of a single tow sample! Using this information I could then find out whether functional or taxonomic recovery had occurred at all.
 
