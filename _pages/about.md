@@ -9,7 +9,7 @@ profile:
   image: IMG_8653.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>A red abalone from my time at NOAA's Southwest Fisheries Science Center in La Jolla, California!</p>
+    <p>A red abalone from my internship at NOAA's Southwest Fisheries Science Center in La Jolla, California!</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
