@@ -2,7 +2,7 @@
 layout: page
 title: HABs and OA Monitoring with SCCWRP
 description: My work as a lab assistant at Southern California Coastal Waters Research Project (SCCWRP)
-img: assets/img/3.jpg
+img: assets/img/NBP_tow.jpg
 importance: 2
 category: Current Research Projects
 giscus_comments: false
