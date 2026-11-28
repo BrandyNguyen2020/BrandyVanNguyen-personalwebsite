@@ -24,15 +24,14 @@ This area is where my project comes in; **I study the dynamics of functional and
 
 We utilized a set of three lakes (all with varying fish histories) to elucidate the dynamics of functional and taxanomic recovery post disturbance. The idea is that functional traits of a community may recover faster than the targeted return of certain taxa. A publication is soon to come out of this work I swear! 
 
-<div class="row justify-content-sm-center">
-  <div class="col-sm-6 mt-3 mt-md-0">
-    <img src="{{ '/assets/img/Zoops.jpg' | relative_url }}" alt="Zooplankton tow sample" class="img-fluid rounded z-depth-1" style="width: 100%; height: 360px; object-fit: cover;">
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
-    <img src="{{ '/assets/img/daphnia_party.jpg' | relative_url }}" alt="Microscopy image of zooplankton" class="img-fluid rounded z-depth-1" style="width: 100%; height: 320px; object-fit: cover;">
-  </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Zoops.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/daphnia_party.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-
 
 Using microscopy, I would identify each zooplankton tow net sample for the species that made up that community and take images of the zooplankton to measure individual traits like body size. It's kind of amazing how much information you can get out of a single tow sample! Using this information I could then find out whether functional or taxonomic recovery had occurred at all.
 
